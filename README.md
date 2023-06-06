@@ -3,8 +3,6 @@
 ![Imagem de resultado do projeto](./Links-Projetos/assets/Links.png)
 <br>
 
-> 🚀 <a href="#">Acesse aqui</a>
-
 ## 💻 Sobre
 
 Página de links, na propósta de ser usada para cosulta de projetos, feita para dilvulgar os projetos realizados pelo aluno <a href="https://github.com/asolipa1">António Solipa</a>, atraves do conteudo apredido na Escola Profisional do Fundão.
